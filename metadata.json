@@ -1,0 +1,5 @@
+{
+  "name": "TMDB High-Res Movie Wallpapers",
+  "description": "A sleek application to search for movies and download their high-quality posters and backdrops directly from TMDB.",
+  "requestFramePermissions": []
+}
