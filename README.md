@@ -2,6 +2,8 @@
 
 A web app to browse and download high-resolution movie posters and backdrops powered by [The Movie Database (TMDB)](https://www.themoviedb.org/) API.
 
+**Live demo:** [https://sathish2598.github.io/movie-gallery/](https://sathish2598.github.io/movie-gallery/)
+
 ## Features
 
 - **Search** — Find movies by title from the header search bar.
